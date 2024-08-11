@@ -1,4 +1,4 @@
-# Comprehensive Data Analysis, Sales Forecasting, and Visualization Using PySpark, Hive, and Tableau
+# Comprehensive Data Analysis, Sales Forecasting Of Retail Store Using PySpark and Tableau
 
 **Description:**
 
