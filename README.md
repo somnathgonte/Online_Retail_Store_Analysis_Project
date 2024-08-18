@@ -13,20 +13,20 @@ This project entails a thorough analysis of retail data to gain insights into ge
 
 **Key Analyses:**
 
-1. **Geographical Analysis:**
-   - Analyze customer density by City, State, and Country using geographic maps.
-   - Identify product popularity and regional preferences using bar charts and bubble maps.
+1.Geographical Analysis:
+   -Analyse customer density by State and Country using geographic maps.
+   -Identify product popularity and regional preferences using bar chart and Tree chart.
 
-2. **Product Performance Analysis:**
-   - Aggregate average ratings, total purchases, and total amount for each product category and brand.
-   - Identify top-selling product categories and brands.
+2.Product Performance Analysis:
+   -Monthly aggregate total purchases and total amount for each product category and brand.
+   -Identify top-selling product and product brands.
 
-3. **Customer Demographics Analysis:**
-   - Understand age and gender distribution using histograms, bar charts, and pie charts.
-   - Analyze average income by gender and customer count by age group.
+3.Customer Demographics Analysis:
+   -Understand age and gender distribution using bar charts and pie charts.
+   -Analyse income by total sales using pie chart.
 
-4. **Sales and Revenue Analysis:**
-   - Examine monthly, yearly, and daily sales trends to identify patterns and fluctuations.
-   - Conduct segment-wise revenue analysis to understand contributions from different customer segments.
+4.Sales and Revenue Analysis:
+   -Analyse sales trends over time (weekly) and by region, customer segment, product category.
+   -Considering average sales as a target to highlight performance as below or above target.
 
 This project showcases expertise in Big Data technologies, advanced data analytics, machine learning, and the ability to deliver actionable business insights through effective data visualization.
